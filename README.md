@@ -1,1 +1,1 @@
-# Neural-Machine-Translation-English-Nepali-
+# Neural Machine Translation (English-Nepali)
